@@ -1,5 +1,4 @@
 # Master-Diploma
-here is the code of the tool developed when writing the diploma
 Для того, чтобы воспользоваться кодом, установите Anaconda,  в ней -  jupyter notebook. Затем погрузите файл ipynb в директорию и откройте. 
 ВАЖНО:
 После запуска через использование клавиш Shift+Enter подождите, пока загрузятся библиотеки, после чего откроется анкетирующее окно для заполнения данных
